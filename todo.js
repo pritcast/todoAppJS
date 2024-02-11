@@ -16,7 +16,7 @@ function addTask(){
         
     }
 
-    input.value == '';
+    input.value = '';
 
     saveData();
 
